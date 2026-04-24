@@ -16,13 +16,13 @@
 @import "./styles/navForPoxod.css";
 @import "./styles/contactFormSection.css";
 @import "./styles/fotoFromBento.css";
-@import "./elements/footer/footer.css";
+
 @import "./styles/opinion.css";
 @import "./styles/video-carousel.css";
 @import "./styles/schedule/schedule.css";
 @import "./styles/schedule/discription.css";
 
-
+@import "./styles/roors/root.css";
 
 @import "./videoSection/videoMain.css";
 
