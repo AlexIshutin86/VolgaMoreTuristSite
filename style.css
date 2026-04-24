@@ -1,9 +1,9 @@
 
 
 
-@import "../elements/header/header.css";
-@import "../elements/runstrok/runtrips.css";
-@import "../elements/footer/footer.css";
+@import "./elements/header/header.css";
+@import "./elements/runstrok/runtrips.css";
+@import "./elements/footer/footer.css";
 
 
 
@@ -28,8 +28,8 @@
 
 
 
-@import "../fotoSection/fotoStylesMain.css";
-@import "../fotoSection/forGeneralFotoAlbom.css";
+@import "./fotoSection/fotoStylesMain.css";
+@import "./fotoSection/forGeneralFotoAlbom.css";
 
 
 
