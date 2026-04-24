@@ -9,14 +9,14 @@
 
 
 
-@import "./videoCarousel.css";
-@import "./about.css";
-@import "./respons.css";
-@import "./header.css";
-@import "./navForPoxod.css";
-@import "./contactFormSection.css";
+@import "/videoCarousel.css";
+@import "/about.css";
+@import "/respons.css";
+@import "/header.css";
+@import "/navForPoxod.css";
+@import "/contactFormSection.css";
 @import "/fotoFromBento.css";
-@import "/elements/footer/footer.css";
+@import "../elements/footer/footer.css";
 @import "/opinion.css";
 @import "./video-carousel.css";
 @import "./schedule/schedule.css";
