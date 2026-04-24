@@ -1,22 +1,22 @@
 
 
 
-@import "elements/header/header.css";
-@import "elements/runstrok/runtrips.css";
-@import "elements/footer/footer.css";
+@import "./elements/header/header.css";
+@import "./elements/runstrok/runtrips.css";
+@import "./elements/footer/footer.css";
 
 
 
 
 
-@import "./videoCarousel.css";
-@import "./about.css";
+@import "./styles/videoCarousel.css";
+@import "./style/about.css";
 @import "./respons.css";
 @import "./header.css";
 @import "./navForPoxod.css";
 @import "./contactFormSection.css";
 @import "./fotoFromBento.css";
-@import "/elements/footer/footer.css";
+@import "./elements/footer/footer.css";
 @import "./opinion.css";
 @import "./video-carousel.css";
 @import "./schedule/schedule.css";
@@ -137,7 +137,7 @@ section{
 
 
 
-@media (maxwidth: 360px) {
+@media (max-width: 360px) {
     
     .section{
     max-height: 30rem;
