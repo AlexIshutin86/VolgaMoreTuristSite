@@ -10,17 +10,17 @@
 
 
 @import "./styles/videoCarousel.css";
-@import "./style/about.css";
-@import "./respons.css";
-@import "./header.css";
-@import "./navForPoxod.css";
-@import "./contactFormSection.css";
-@import "./fotoFromBento.css";
+@import "./styles/about.css";
+
+
+@import "./styles/navForPoxod.css";
+@import "./styles/contactFormSection.css";
+@import "./styles/fotoFromBento.css";
 @import "./elements/footer/footer.css";
-@import "./opinion.css";
-@import "./video-carousel.css";
-@import "./schedule/schedule.css";
-@import "./schedule/discription.css";
+@import "./styles/opinion.css";
+@import "./styles/video-carousel.css";
+@import "./styles/schedule/schedule.css";
+@import "./styles/schedule/discription.css";
 @import "./roors/root.css";
 
 
@@ -28,7 +28,7 @@
 
 
 
-@import "/fotoSection/fotoStylesMain.css";
+@import "../fotoSection/fotoStylesMain.css";
 @import "../fotoSection/forGeneralFotoAlbom.css";
 
 
